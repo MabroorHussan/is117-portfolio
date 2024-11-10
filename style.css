@@ -1,3 +1,5 @@
+/*DEVELOPER: Mabroor Hussan, IS117-001, Fall 2024 */
+
 /* GENERAL */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
@@ -423,8 +425,10 @@ article .icon {
 /* FOOTER SECTION */
 
 footer {
-  height: 26vh;
-  margin: 0 1rem;
+  text-align: center;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
 
 footer p {
